@@ -1,4 +1,4 @@
-## Hi there 👋
+### `{LAST//WEEK//STATS}` 
 <!--START_SECTION:waka-->
 
 ```txt
