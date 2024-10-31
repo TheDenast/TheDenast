@@ -1,4 +1,4 @@
-### `{WEEK//STATS}` 
+### `{STATS}` 
 <!--START_SECTION:waka-->
 
 ```txt
