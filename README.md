@@ -2,7 +2,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python                   █████████████▒░░░░░░░░░░░   53.69 %
+INI                      ███████████▓░░░░░░░░░░░░░   46.31 %
 ```
 
 <!--END_SECTION:waka-->
